@@ -1,0 +1,14 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.container{
+  display: grid;
+  grid-template-rows: 50px 50px 50px 50px;
+  grid-template-columns:50px 50px 50px 50px;
+
+}
+
